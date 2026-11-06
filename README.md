@@ -110,9 +110,8 @@
 ## 🏆 Chronicle of My Conquests:
 
 <p align="center">
-  <img alt="Mohammed Safa's GitHub stats" height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Mohammed-Safa&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
- 
+  <img alt="Mohammed Safa's GitHub streak" height="170"
+       src="https://streak-stats.demolab.com?user=Mohammed-Safa&theme=radical&hide_border=true" />
 </p>
 
 
