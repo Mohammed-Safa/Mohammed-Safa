@@ -9,10 +9,10 @@
 ## 🤝 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-safa-058408242/">
+  <a href="https://www.linkedin.com/in/mohammed-safa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:mohammedsafa055@gmail.com">
+  <a href="mailto:mohammed.sherif.safa@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="gmail logo" />
   </a>
 </p>
@@ -83,12 +83,12 @@
 ## 🏆 Chronicle of My Conquests:
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohammedsafa&show_icons=true&theme=radical" height="160" style="display:inline-block;"/>
-  <img src="https://streak-stats.demolab.com?user=Mohammedsafa&theme=radical&hide_border=true" height="160" style="display:inline-block;"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohammed-Safa&show_icons=true&theme=radical" height="160" style="display:inline-block;"/>
+  <img src="https://streak-stats.demolab.com?user=Mohammed-Safa&theme=radical&hide_border=true" height="160" style="display:inline-block;"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammedsafa&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Safa&theme=react-dark&hide_border=true" />
 </p>
 
 <h3 align="center">🎮 Eating My Contributions</h3>
@@ -96,15 +96,15 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/Mohammedsafa/Mohammedsafa/output/pacman-contribution-graph-dark.svg">
+      srcset="https://raw.githubusercontent.com/Mohammed-Safa/Mohammed-Safa/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/Mohammedsafa/Mohammedsafa/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/Mohammedsafa/Mohammedsafa/output/pacman-contribution-graph.svg">
+      srcset="https://raw.githubusercontent.com/Mohammed-Safa/Mohammed-Safa/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/Mohammed-Safa/Mohammed-Safa/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
 ---
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Mohammedsafa&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-Safa&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> 
 </p>
