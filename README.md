@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, Digital Visionaries! 🌐 I'm Mohammed Sherif Safa. 🧬✨</h1>
 
 <p align="center">
-  💡 Driven by the belief that data holds the key to a smarter future. I use the power of machine learning and bioinformatics to tackle complex challenges and create meaningful impact. My mission is to transform ideas into reality through code and analytics, pushing the boundaries of what's possible.
+  💡 Driven by the belief that data holds the key to a smarter future. I build end-to-end AI solutions, from machine learning and RAG applications to production-ready systems, that turn business requirements into scalable, real-world impact. My mission is to transform ideas into reality through code and analytics, pushing the boundaries of what's possible.
 </p>
 
 ---
